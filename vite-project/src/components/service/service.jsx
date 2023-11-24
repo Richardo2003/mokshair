@@ -11,37 +11,37 @@ const Service = () => {
                 </div>
                 <div className="col-lg-6 col-12 mb-4">
                     <div className="services-thumb">
-                    <img src="images/services/woman-cutting-hair-man-salon.jpg" className="services-image img-fluid" alt />
+                    <img src="images/haircut.jpeg" className="services-image img-fluid" alt />
                     <div className="services-info d-flex align-items-end">
                         <h4 className="mb-0">Hair cut</h4>
-                        <strong className="services-thumb-price">$36.00</strong>
+                        <strong className="services-thumb-price">Rp.40.000</strong>
                     </div>
                     </div>
                 </div>
                 <div className="col-lg-6 col-12 mb-4">
                     <div className="services-thumb">
-                    <img src="images/services/hairdresser-grooming-their-client.jpg" className="services-image img-fluid" alt />
+                    <img src="images/skin.jpeg" className="services-image img-fluid" alt />
                     <div className="services-info d-flex align-items-end">
-                        <h4 className="mb-0">Washing</h4>
-                        <strong className="services-thumb-price">$25.00</strong>
+                        <h4 className="mb-0">skin</h4>
+                        <strong className="services-thumb-price">Rp.10.000</strong>
                     </div>
                     </div>
                 </div>
                 <div className="col-lg-6 col-12 mb-4 mb-lg-0">
                     <div className="services-thumb">
-                    <img src="images/services/hairdresser-grooming-client.jpg" className="services-image img-fluid" alt />
+                    <img src="images/styling.jpeg" className="services-image img-fluid" alt />
                     <div className="services-info d-flex align-items-end">
-                        <h4 className="mb-0">Shaves</h4>
-                        <strong className="services-thumb-price">$30.00</strong>
+                        <h4 className="mb-0">styling</h4>
+                        <strong className="services-thumb-price">Rp.30.000</strong>
                     </div>
                     </div>
                 </div>
                 <div className="col-lg-6 col-12">
                     <div className="services-thumb">
-                    <img src="images/services/boy-getting-haircut-salon-front-view.jpg" className="services-image img-fluid" alt />
+                    <img src="images/gimbal.jpeg" className="services-image img-fluid" alt />
                     <div className="services-info d-flex align-items-end">
-                        <h4 className="mb-0">Kids</h4>
-                        <strong className="services-thumb-price">$25.00</strong>
+                        <h4 className="mb-0">gimbal</h4>
+                        <strong className="services-thumb-price">Rp.150.000</strong>
                     </div>
                     </div>
                 </div>

@@ -19,9 +19,9 @@ const Contact = () => {
                     <div className="col-lg-6 col-12">
                     <h5 className="mb-3"><strong>Contact</strong> Information</h5>
                     <p className="text-white d-flex mb-1">
-                        <a href="tel: 120-240-3600" className="site-footer-link">
-                        (+49) 
-                        120-240-3600
+                        <a href="tel:852-9869-0658" className="site-footer-link">
+                        (+62) 
+                        852-9869-0658
                         </a>
                     </p>
                     <p className="text-white d-flex">
@@ -39,7 +39,7 @@ const Contact = () => {
                         </a>
                         </li>
                         <li className="social-icon-item">
-                        <a href="#" className="social-icon-link bi-instagram">
+                        <a href="https://instagram.com/moks_hairstudio?igshid=OGQ5ZDc2ODk2ZA==" className="social-icon-link bi-instagram">
                         </a>
                         </li>
                         <li className="social-icon-item">
@@ -57,12 +57,12 @@ const Contact = () => {
                         <h6 className="mb-0">
                         <i className="custom-icon bi-shop me-3" />
                         <strong>Open Daily</strong>
-                        <span className="ms-auto">10:00 AM - 8:00 PM</span>
+                        <span className="ms-auto">12:00 AM - 22:00 PM</span>
                         </h6>
                     </div>
                     </div>
                     <div className="col-lg-12 col-12 mx-auto mt-5 pt-5">
-                    <iframe className="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.597345140148!2d124.98139947348956!3d1.4175081613577265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32870a95df6309dd%3A0x21d86e4847556add!2sUniversitas%20Klabat!5e0!3m2!1sen!2sid!4v1700407883997!5m2!1sen!2sid" width="100%" height={300} style={{border: 0}} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+                    <iframe className="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.56911306727!2d125.11085577348958!3d1.4338035613033355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x328705b46cd98a1f%3A0x19a58fb00fdb05a2!2sMOKS%20HAIRSTUDIO!5e0!3m2!1sen!2sid!4v1700840807614!5m2!1sen!2sid"  width="100%" height={300} style={{border: 0}} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
                     </div>
                 </div>
                 </div>

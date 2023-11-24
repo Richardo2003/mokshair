@@ -10,7 +10,7 @@ const Feature = () => {
                 <div className="col-lg-10 col-12 mx-auto">
                     <h2 className="mb-3">Get 32% Discount</h2>
                     <p>on every second week of the month</p>
-                    <strong>Promo Code: BarBerMo</strong>
+                    <strong>Promo Code:Unklab</strong>
                 </div>
                 </div>
             </div>

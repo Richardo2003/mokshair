@@ -16,41 +16,41 @@ const Pricelist = () => {
                             <h6 className="d-flex">
                             Haircut
                             <span className="price-list-thumb-divider" />
-                            <strong>$32.00</strong>
+                            <strong>Rp.40.000</strong>
                             </h6>
                         </div>
                         <div className="price-list-thumb">
                             <h6 className="d-flex">
-                            Beard Trim
+                            gimbal
                             <span className="price-list-thumb-divider" />
-                            <strong>$26.00</strong>
+                            <strong>Rp.150.000</strong>
                             </h6>
                         </div>
                         <div className="price-list-thumb">
                             <h6 className="d-flex">
-                            Razor Cut
+                            skin cut
                             <span className="price-list-thumb-divider" />
-                            <strong>$36.00</strong>
+                            <strong>Rp.10.000</strong>
                             </h6>
                         </div>
                         <div className="price-list-thumb">
                             <h6 className="d-flex">
-                            Shaves
+                            Styling 
                             <span className="price-list-thumb-divider" />
-                            <strong>$30.00</strong>
+                            <strong>Rp.30.000</strong>
                             </h6>
                         </div>
                         <div className="price-list-thumb">
                             <h6 className="d-flex">
-                            Styling / Color
+                            Color
                             <span className="price-list-thumb-divider" />
-                            <strong>$25.00</strong>
+                            <strong>Rp.50.000</strong>
                             </h6>
                         </div>
                         </div>
                     </div>
                     <div className="col-lg-4 col-12 custom-block-bg-overlay-wrap mt-5 mb-5 mb-lg-0 mt-lg-0 pt-3 pt-lg-0">
-                        <img src="images/vintage-chair-barbershop.jpg" className="custom-block-bg-overlay-image img-fluid" alt />
+                        <img src="images/styling.jpeg" className="custom-block-bg-overlay-image img-fluid" alt />
                     </div>
                     </div>
                 </div>

@@ -16,9 +16,9 @@ const Button = () => {
             </div>
             </div>
             <div className="custom-block d-lg-flex flex-column justify-content-center align-items-center">
-            <img src="images/vintage-chair-barbershop.jpg" className="custom-block-image img-fluid" alt />
+            <img src="images/kursi.jpeg" className="custom-block-image img-fluid" alt />
             <h4><strong className="text-white">Hurry Up! Get good haircut.</strong></h4>
-            <a href="#booking-section" className="smoothscroll btn custom-btn custom-btn-italic mt-3">Book a seat</a>
+            {/* <a href="#booking-section" className="smoothscroll btn custom-btn custom-btn-italic mt-3"></a> */}
             </div>
             </section>
         </div>

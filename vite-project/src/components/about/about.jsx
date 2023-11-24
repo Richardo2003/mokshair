@@ -14,16 +14,12 @@ const About = () => {
                 </div>
                 <h6 className="mb-5">Meet Babers</h6>
                 <div className="col-lg-5 col-12 custom-block-bg-overlay-wrap me-lg-5 mb-5 mb-lg-0">
-                <img src="images/barber/portrait-male-hairdresser-with-scissors.jpg" className="custom-block-bg-overlay-image img-fluid" alt />
+                <img src="images/barber/andre.jpg" className="custom-block-bg-overlay-image img-fluid" alt />
                 <div className="team-info d-flex align-items-center flex-wrap">
-                    <p className="mb-0">Redo</p>
+                    <p className="mb-0">Andre</p>
                     <ul className="social-icon ms-auto">
                     <li className="social-icon-item">
-                        <a href="#" className="social-icon-link bi-facebook">
-                        </a>
-                    </li>
-                    <li className="social-icon-item">
-                        <a href="#" className="social-icon-link bi-instagram">
+                        <a href="https://instagram.com/sultanm0_?igshid=OGQ5ZDc2ODk2ZA==" className="social-icon-link bi-instagram">
                         </a>
                     </li>
                     <li className="social-icon-item">
@@ -34,16 +30,16 @@ const About = () => {
                 </div>
                 </div>
                 <div className="col-lg-5 col-12 custom-block-bg-overlay-wrap mt-4 mt-lg-0 mb-5 mb-lg-0">
-                <img src="images/barber/portrait-mid-adult-bearded-male-barber-with-folded-arms.jpg" className="custom-block-bg-overlay-image img-fluid" alt />
+                <img src="images/barber/ekii.jpg" className="custom-block-bg-overlay-image img-fluid" alt />
                 <div className="team-info d-flex align-items-center flex-wrap">
-                    <p className="mb-0">Sam</p>
+                    <p className="mb-0">Eki</p>
                     <ul className="social-icon ms-auto">
                     <li className="social-icon-item">
-                        <a href="#" className="social-icon-link bi-facebook">
+                        <a href="https://instagram.com/reskysteven?igshid=OGQ5ZDc2ODk2ZA==" className="social-icon-link bi-instagram">
                         </a>
                     </li>
                     <li className="social-icon-item">
-                        <a href="#" className="social-icon-link bi-instagram">
+                        <a href="#" className="social-icon-link bi-whatsapp">
                         </a>
                     </li>
                     </ul>
