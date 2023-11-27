@@ -26,7 +26,7 @@ const Contact = () => {
                     </p>
                     <p className="text-white d-flex">
                         <a href="mailto:info@yourgmail.com" className="site-footer-link">
-                        hello@barber.beauty
+                        moks.hairstudio
                         </a>
                     </p>
                     <ul className="social-icon">
