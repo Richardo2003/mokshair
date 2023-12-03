@@ -10,7 +10,7 @@ const Pricelist = () => {
                         <div className="price-list-thumb-wrap">
                         <div className="mb-4">
                             <h2 className="mb-2">Price List</h2>
-                            <strong>Starting at $25</strong>
+                            <strong>Starting at Rp.40.000</strong>
                         </div>
                         <div className="price-list-thumb">
                             <h6 className="d-flex">

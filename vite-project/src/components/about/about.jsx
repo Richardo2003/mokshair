@@ -9,7 +9,7 @@ const About = () => {
                 <div className="col-lg-12 col-12 mx-auto">
                 <h2 className="mb-4">Best hairdressers</h2>
                 <div className="border-bottom pb-3 mb-5">
-                    <p>Gentlemens Barber Shop is new Bootstrap v5 HTML CSS template by TemplateMo for everyone. There is a sidebar menu to navigate the one-page layout. You can feel free to adapt this template for your business.</p>
+                    <p></p>
                 </div>
                 </div>
                 <h6 className="mb-5">Meet Babers</h6>
